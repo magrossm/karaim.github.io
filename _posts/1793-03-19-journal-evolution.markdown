@@ -2,7 +2,7 @@
 layout: post
 title:  "Evolution du journal"
 author: Jean-Paul Marat
-date:   1793-03-19
+date:   5769-Tishri-22
 keywords: Freedom and liberty
 ---
 
