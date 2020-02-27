@@ -17,9 +17,10 @@ title: בני-מקרא
 email: test
 description: >
   Blog über das karäische Judentum, <br>
-  Ansichten eines Gläubigen, <br>
-  Interpretationen der Schrift.
-tagline: לֹ֣א תֹסִ֗פוּ עַל־הַדָּבָר֙ אֲשֶׁ֤ר אָנֹכִי֙ מְצַוֶּ֣ה אֶתְכֶ֔ם וְלֹ֥א תִגְרְע֖וּ מִמֶּ֑נּוּ לִשְׁמֹ֗ר אֶת־מִצְוֹת֙ יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם אֲשֶׁ֥ר אָנֹכִ֖י מְצַוֶּ֥ה אֶתְכֶֽם׃
+  aus der Sicht eines Gläubigen, <br>
+  Interpretationen der Schrift, Traditionen, etc.
+tagline: 
+Ihr sollt dem Wortlaut dessen, worauf ich euch verpflichte, nichts hinzufügen und nichts davon wegnehmen; ihr sollt die Gebote des HERRN, eures Gottes, bewahren, auf die ich euch verpflichte.
 location: צלם־מקום 
 date: true
 baseurl: "/" # the subpath of your site, e.g. /blog
