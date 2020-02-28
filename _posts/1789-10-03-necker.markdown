@@ -9,6 +9,6 @@ keywords: Siddur, Nusach
 
 Ein Bild zum Beispiel
 
-<img src="{{site.url}}/assets/img/2812BDDE-1EC1-4FD4-9EE5-DBD4E637B361.jpeg" />
+<img src="/assets/img/2812BDDE-1EC1-4FD4-9EE5-DBD4E637B361.jpeg" />
 
 Test 123
