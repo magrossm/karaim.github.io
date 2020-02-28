@@ -3,7 +3,7 @@ layout: post
 title:  "Karäische Siddurim 2.0"
 author: Meir b. Abram
 date:   2020-02-28
-category: Tehillah
+category: Tefillah
 keywords: Siddur, Nusach
 ---
 
