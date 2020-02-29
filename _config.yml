@@ -20,7 +20,7 @@ description: >
   dessen Geschichte, Tradition, Bräuche,<br>
   Interpretation der Schrift, Gebete etc.
 tagline: von M. Grossmann
-location: צלם־מקום 
+location:
 date: false
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://karaim.github.io" # the base hostname & protocol for your site, e.g. http://example.com
