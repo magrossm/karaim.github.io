@@ -8,15 +8,15 @@ Rechtliches
 
 ○ Impressum
 
-Martin Grossmann, Hüffelsheimer Str. 1, 55545 Bad Kreuznach, kontakt@jüdischundkaräisch.de
+Martin Grossmann, Hüffelsheimer Str. 1, 55545 Bad Kreuznach, kontakt@garten-der-kenessa.de
 
 ○ Datenschutz (DSGVO)
 
 Der Verantwortliche im Sinne der Datenschutz-Grundverordnung und anderer nationaler Datenschutzgesetze der Mitgliedsstaaten sowie sonstiger datenschutzrechtlicher Bestimmungen ist: 
-Martin Grossmann 
-Hüffelsheimer Str. 1
-55545 Bad Kreuznach 
-kontakt@jüdischundkaräisch.de
+Martin Grossmann,
+Hüffelsheimer Str. 1,
+55545 Bad Kreuznach, 
+kontakt@garten-der-kenessa.de
 
 Wir verarbeiten personenbezogene Daten unserer Nutzer grundsätzlich nur, soweit dies zur Bereitstellung einer funktionsfähigen Website sowie unserer Inhalte und Leistungen erforderlich ist. Die Verarbeitung personenbezogener Daten unserer Nutzer erfolgt regelmäßig nur nach Einwilligung des Nutzers. Eine Ausnahme gilt in solchen Fällen, in denen eine vorherige Einholung einer Einwilligung aus tatsächlichen Gründen nicht möglich ist und die Verarbeitung der Daten durch gesetzliche Vorschriften gestattet ist.
 
