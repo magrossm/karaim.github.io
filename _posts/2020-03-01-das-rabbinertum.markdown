@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Das (rabbinische) Judentum in a Nutshell (Einführung Teil I)"
+title:  "Das (rabbinische) Judentum in a Nutshell"
 author: Martin
 date:   2020-02-28
 category: Grundlage
