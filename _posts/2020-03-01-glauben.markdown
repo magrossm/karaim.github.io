@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Stick Note Glauben (Einführung Teil III)"
+title:  "Kurzüberblick Glauben"
 author: Martin
 date:   2020-02-28
 category: Grundlage
