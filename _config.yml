@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Gan Kenesa
+title: Garten der Kenessa
 email: kontakt@gartenderkenessa.de
 description: >
   Blog über das karäische Judentum, <br>
@@ -24,7 +24,7 @@ location:
 date: false
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://karaim.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-author: Willkommen bei
+author: Willkommen im
 google_analytics: UA-101394056-1
 
 # SEO
