@@ -8,11 +8,14 @@ Rechtliches
 
 ○ Impressum
 
-Grandhomme, Hüffelsheimer Str. 1, 55545 Bad Kreuznach, Deutschland, Telefon +49 (0) 176/824 555 789, kontakt@jüdischundkaräisch.de
+Martin Grossmann, üffelsheimer Str. 1, 55545 Bad Kreuznach, Deutschland, kontakt@jüdischundkaräisch.de
 
 ○ Datenschutz (DSGVO)
 
-Der Verantwortliche im Sinne der Datenschutz-Grundverordnung und anderer nationaler Datenschutzgesetze der Mitgliedsstaaten sowie sonstiger datenschutzrechtlicher Bestimmungen ist: Martin Grossmann H Sohren E-Mail: üffelsheimer Str. 1, 55545 Bad Kreuznach Email: kontakt@jüdischundkaräisch.de Telegram: @grandhomme
+Der Verantwortliche im Sinne der Datenschutz-Grundverordnung und anderer nationaler Datenschutzgesetze der Mitgliedsstaaten sowie sonstiger datenschutzrechtlicher Bestimmungen ist: 
+Martin Grossmann 
+Hüffelsheimer Str. 1, 55545 Bad Kreuznach 
+Email: kontakt@jüdischundkaräisch.de
 
 Wir verarbeiten personenbezogene Daten unserer Nutzer grundsätzlich nur, soweit dies zur Bereitstellung einer funktionsfähigen Website sowie unserer Inhalte und Leistungen erforderlich ist. Die Verarbeitung personenbezogener Daten unserer Nutzer erfolgt regelmäßig nur nach Einwilligung des Nutzers. Eine Ausnahme gilt in solchen Fällen, in denen eine vorherige Einholung einer Einwilligung aus tatsächlichen Gründen nicht möglich ist und die Verarbeitung der Daten durch gesetzliche Vorschriften gestattet ist.
 
