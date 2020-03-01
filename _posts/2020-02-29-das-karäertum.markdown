@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wer sind die karäischen Juden"
+title:  "Wer sind die karäischen Juden? (Einführung Teil II)"
 author: Martin
 date:   2020-02-28
 category: Grundlage
